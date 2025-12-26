@@ -55,7 +55,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 #Footer
-copyright: Copyright &copy; 2024 James Willett
+copyright: Copyright &copy; 2026 Kareem Jaradat
 extra:
   social:
     - icon: fontawesome/brands/mastodon 
