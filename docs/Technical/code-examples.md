@@ -1,3 +1,29 @@
+Examples of code
+
+```py title="add_numbers.py" linenums="1"
+# Function to add two numbers
+def add_two_numbers(num1, num2):
+    return num1 + num2
+
+# Example usage
+result = add_two_numbers(5, 3)
+print('The sum is:', result)
+```
+
+Code highlighting in JS
+```js title="code-examples.js" linenums="1" hl_lines="2-4"
+// Function to concatenate two strings
+function concatenateStrings(str1, str2) {
+  return str1 + str2;
+}
+
+// Example usage
+const result = concatenateStrings("Hello, ", "World!");
+console.log("The concatenated string is:", result);
+```
+
+Code highlighting in yaml
+```yaml title="mkdocs.yml" linenums="1" 
 site_name: My Docs
 site_url: http://jaradat.ca
 theme:
@@ -12,17 +38,6 @@ theme:
     - navigation.instant.preview
     - navigation.tracking
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.path #breadcrumbs
-    - navigation.top
-    - toc.follow
-    - search.suggest
-    - search.highlight
-    - search.share
-    - content.code.copy
-    - content.code.select
-    - content.code.annotate
   # icon:
     # logo: fontawesome/solid/w
   favicon: assets/favicon.ico
@@ -42,9 +57,6 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
-      
-plugins: 
-  - search
 
 markdown_extensions:
   # Emoji and icons
@@ -80,8 +92,4 @@ extra:
       link: https://fosstodon.org/@squidfunk 
     - icon: fontawesome/brands/facebook 
       link: https://fosstodon.org/@squidfunk
-# nav:
-#   - Home: index.md
-
-
-
+```
