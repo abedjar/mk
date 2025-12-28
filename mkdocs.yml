@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Dr. Kareem Jaradat
 site_url: http://jaradat.ca
 theme:
   name: material
@@ -32,7 +32,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: blue
+      primary: indigo #blue grey
       accent: deep purple
 
     # Light Mode
