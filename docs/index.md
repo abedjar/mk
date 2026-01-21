@@ -1,6 +1,7 @@
-# Welcome to MkDocs
+# Welcome to my MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+the
+  full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
@@ -16,4 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-I don;t drink :beer: but play :soccer:
+I don;t drink :beer: but play :soccer: 
